@@ -52,11 +52,13 @@ button {
   min-height: 757px;
   background-image:url(../images/cover.jpg);
   background-size: cover;
+  background-position: center;
   z-index: 1;
 }
 
 .lots {
   padding: 0px;
+  margin: 180px 24px 0px 24px;
 }
 
 .about {
