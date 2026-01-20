@@ -64,9 +64,15 @@ button {
 .about {
   margin: 120px 24px 0px 24px;
   display: grid;
-  grid-template-columns: 596px auto;
+  grid-template-columns: 334px auto;
 }
 
 .footer {
-  padding: auto 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  margin-top: 180px;
+  padding: 2px 50px 0px 50px;
+  font-size: 18px;
+  font-weight: 400;
 }
