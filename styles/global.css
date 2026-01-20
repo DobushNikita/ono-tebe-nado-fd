@@ -62,7 +62,9 @@ button {
 }
 
 .about {
-  padding: 0px;
+  margin: 120px 24px 0px 24px;
+  display: grid;
+  grid-template-columns: 596px auto;
 }
 
 .footer {
