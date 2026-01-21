@@ -88,7 +88,6 @@
   flex-direction: row;
   justify-content: space-between;
   margin: 106px 50px 50px 50px;
-  
 }
 
 .cover__description-text {
@@ -201,8 +200,8 @@
   display: flex;
   align-self: center;
   justify-content: center;
-  width: 240px; 
-  height: 240px; 
+  width: 240px;
+  height: 240px;
   border-radius: 50%;
   background-color: black;
   margin: 35px 0px 0px 47px;
